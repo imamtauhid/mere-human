@@ -1,0 +1,8 @@
+{
+
+    "target": "dependencies.json",
+    "mode": "otonom",
+    "root": "../../../",
+    "base": "../../../../"
+
+}

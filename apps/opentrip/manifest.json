@@ -1,0 +1,15 @@
+{
+
+    "name": "opentrip",
+
+    "type": "web-application",
+
+    "version": "v0.0.1",
+
+    "description": "trip with anyone",
+
+    "icon": "assets/img/icon/main.png",
+
+    "main": "main/index.js"
+
+}

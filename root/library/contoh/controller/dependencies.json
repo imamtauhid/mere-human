@@ -1,0 +1,17 @@
+{
+
+    "/root/library/contoh/controller/UserController.js" : [
+
+        "/root/library/contoh/model/UserModel.js"
+
+    ],
+
+    "/root/library/contoh/controller/SialanController.js" : [
+
+        "/root/library/contoh/model/UserModel.js",
+
+        "/root/library/contoh/controller/UserController.js"
+
+    ]
+
+}

@@ -1,0 +1,11 @@
+{
+
+    "/root/library/Database/Database.js" : [
+
+        "sequelize"
+
+    ],
+
+    "sequelize" : []
+
+}

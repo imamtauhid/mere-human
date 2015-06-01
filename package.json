@@ -1,0 +1,30 @@
+{
+  "name": "mere-human",
+  "version": "1.0.0",
+  "description": "mere-human",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-inversion": "sudo node test/inversion.js",
+    "start": "sudo node root/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imamtauhid/mere-human.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imamtauhid/mere-human/issues"
+  },
+  "homepage": "https://github.com/imamtauhid/mere-human",
+  "dependencies": {
+    "async": "^0.9.0",
+    "async-foreach": "^0.1.3",
+    "lodash": "^3.8.0",
+    "sequelize": "^3.0.0"
+  }
+}
