@@ -80,7 +80,11 @@
 
         tasks.push(function (scallback) {
 
-            boot.load
+            boot.wakingUpMother(function (err, data) {
+
+                scallback(err, data)
+
+            })
 
         })
 

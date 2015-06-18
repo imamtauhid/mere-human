@@ -10,6 +10,8 @@
 
     "icon": "assets/img/icon/main.png",
 
-    "main": "main/index.js"
+    "main": "main/index.js",
+
+    "config": "config/index.json"
 
 }

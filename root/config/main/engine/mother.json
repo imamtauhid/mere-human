@@ -1,0 +1,21 @@
+{
+
+
+    "root" : "/../../../apps",
+    "seeds": [
+
+        {
+
+            "name": "opentrip",
+            "services": [{
+
+                "type": "http", // http || socket || telnet
+                "port": "2000"
+
+            }]
+
+        }
+
+    ]
+
+}
